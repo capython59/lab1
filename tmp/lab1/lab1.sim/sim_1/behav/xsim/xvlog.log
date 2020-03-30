@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Georgiy/Desktop/lab1/rtl/sw_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sw_test
+INFO: [VRFC 10-2458] undeclared symbol f, assumed default net type wire [C:/Users/Georgiy/Desktop/lab1/rtl/sw_test.v:72]
